@@ -1,2 +1,2 @@
-# machinelearning
-Simple linear regression model to predict the salary of an employee
+# Machine Learning
+Contains regression, classfication, and clustering techniques using Python scikit-learn
